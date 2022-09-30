@@ -1,2 +1,0 @@
-#Senai Cataguases
-Treinando JS - POO
